@@ -1,0 +1,9 @@
+## RUN PARAMS
+
+
+The_file_of_KO_number: data/1
+
+DIAMOND_QUERY_FILE: data/1QUERY_FILE
+DIAMOND_THREADS: 100
+Abundance_table: data/1allsimple.gene.csv
+
